@@ -14,4 +14,4 @@ Contenu du répertoire :
 
 Une vidéo de présentation du projet plus en détail est disponible à l'adresse suivante : [vidéo à finaliser]
 
-à la racine de ce projet, vous trouverez la maquette de base de la page faite en tout début de projet, un fichier TODO dont je me suis servi pour décomposer les tâches et actualiser l'avancement du projet (Remplaçable par un Trello, en vérité) ainsi que le schéma technique des flux (ports, urls...) du projet. 
+à la racine de ce projet, vous trouverez la maquette de base de la page faite en tout début de projet, la procédure de lancement de ce dernier, un fichier TODO dont je me suis servi pour décomposer les tâches et actualiser l'avancement du projet (Remplaçable par un Trello, en vérité) ainsi que le schéma technique des flux (ports, urls...) du projet. 
