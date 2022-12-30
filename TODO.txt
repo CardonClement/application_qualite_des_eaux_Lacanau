@@ -1,0 +1,28 @@
+NON FAITS
+
+7.
+- Mettre le projet sur GitHub, Record la vidéo de présentation, la poster sur youtube et envoyer un lien des deux
+
+
+========================
+
+
+FAITS
+
+1.
+- faire une appli front reactjs en se basant sur la maquette de la page
+
+2.
+- faire une api qui fournit les données de pollution d'Hourtin en dur avec express (nodejs) -> voir dossier API_Pollution_Express
+
+3.
+- faire une api qui fournit les données des plages des quatres autres villes avec nestjs via une base de donnée (maria,postgres,mongo...) (framework nodejs) -> à deployer via CI sur serveur de mon choix (déployée sur AWS)
+
+4.
+- créer une api qui rassemble les données des deux api créées précedemment (2. et 3.)
+
+5.
+- utiliser les données de l'api du 4. pour les intégrer aux endroits appropriés (XX pour données et [] pour emoji sur la maquette)
+
+6.
+- Faire shéma technique des flux (ports, urls, etc)
