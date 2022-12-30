@@ -11,6 +11,7 @@ Contenu du répertoire :
 - Une API Express fusionnant les deux API mentionnées précedemment, renvoyant leur données dans un seul JSON (voir ./API_Fusion_Express)
 
 - Une application React.js exploitant les données de cette dernière, dont les données changent en fonction des valeurs entrées. (voir ./APP_Lacanau_React)
+/!\ L'application ayant été faite pour une utilisation "vitrine", tout format autre que 16:9 (grossissement automatique windows/autre OS, écran n'ayant pas une résolution au format 16:9, zoomer le site via le navigateur...) entrainera des problèmes d'affichage.
 
 Une vidéo de présentation du projet plus en détail est disponible à l'adresse suivante : [vidéo à finaliser]
 
