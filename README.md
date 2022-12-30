@@ -13,6 +13,6 @@ Contenu du répertoire :
 - Une application React.js exploitant les données de cette dernière, dont les données changent en fonction des valeurs entrées. (voir ./APP_Lacanau_React)
 /!\ L'application ayant été faite pour une utilisation "vitrine", tout format autre que 16:9 (grossissement automatique windows/autre OS, écran n'ayant pas une résolution au format 16:9, zoomer le site via le navigateur...) entrainera des problèmes d'affichage.
 
-Une vidéo de présentation du projet plus en détail est disponible à l'adresse suivante : https://github.com/CardonClement/application_qualite_des_eaux_Lacanau/blob/main/README.md
+Une vidéo de présentation du projet plus en détail est disponible à l'adresse suivante : https://www.youtube.com/watch?v=NEuQp6fFIS4&ab_channel=Cl%C3%A9mentCardon
 
 à la racine de ce projet, vous trouverez la maquette de base de la page faite en tout début de projet, la procédure de lancement de ce dernier, un fichier TODO dont je me suis servi pour décomposer les tâches et actualiser l'avancement du projet (Remplaçable par un Trello, en vérité) ainsi que le schéma technique des flux (ports, urls...) du projet. 
