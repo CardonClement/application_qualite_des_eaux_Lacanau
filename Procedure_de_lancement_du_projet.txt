@@ -1,0 +1,23 @@
+Pour lancer le projet, ouvrir différents terminal depuis la racine du projet et rentrer les commandes dans l'ordre qui suit : 
+
+
+Dans un premier terminal : 
+
+cd ./API_Pollution_Express
+node .
+
+Dans un second terminal : 
+
+cd ./API_PollutionVillesVoisines_NestJS/villes_voisines
+npm run start
+
+Dans un troisieme terminal : 
+
+cd ./API_Fusion_Express
+node .
+
+Dans un quatrième terminal : 
+
+cd ./APP_Lacanau_React/lacanau
+npm start
+y
